@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "nombre": "luki",
+    "salario": 2300.0,
+    "proyectos": []
+  },
+  {
+    "Id": 2,
+    "nombre": "pablete",
+    "salario": 4000.0,
+    "proyectos": []
+  }
+]
